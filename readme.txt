@@ -1,5 +1,9 @@
 MyOpenLab
 
+This was a working Alpha version of MyOpenLab.
+To upgrade search for MyLibreLab.
+Paulo GalvÃ£o
+
 For Linux and MAC first open a Linux Terminal.
 Use the "cd" command to Change the working directory and set your distribution Folder. (Example: cd /home/yourpath/distribution).
 Execute "./start_linux" script (You must Add Execution privileges to that Script).
@@ -10,8 +14,8 @@ To configure Serial Driver on Raspberry you can run the distribution/rxtx/Raspbe
 For Windows Please use "start.bat".
 
 Anforderungen:
-Sie benötigen mindestens das JRE 7 oder das JDK 7
-oder höher. Die neueste Version kann von Sun Microsystems
+Sie benÃ¶tigen mindestens das JRE 7 oder das JDK 7
+oder hÃ¶her. Die neueste Version kann von Sun Microsystems
 unter http://java.sun.com/ kostenlos bezogen werden.
 
 Java and all Java-related trademarks 
